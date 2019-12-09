@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  ramlegacy: ramlegacy.html
+  tables_description: tables_description.html
+last_built: 2021-07-22T19:49Z
+urls:
+  reference: https://docs.ropensci.org/ramlegacy/reference
+  article: https://docs.ropensci.org/ramlegacy/articles
+
