@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "cb6f34535be2c79583dc9d07de53c1263f7995e5",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 14:27:53",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "repo": "https://github.com/ropensci/ramlegacy",
+  "pkg": "ramlegacy"
+}
